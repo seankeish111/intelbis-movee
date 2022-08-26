@@ -1,0 +1,15 @@
+{
+  "intelbis": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-intelbismovee-intelbis-232141-authRole",
+      "UnauthRoleArn": "arn:aws:iam::952134732999:role/amplify-intelbismovee-intelbis-232141-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::952134732999:role/amplify-intelbismovee-intelbis-232141-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-intelbismovee-intelbis-232141-deployment",
+      "UnauthRoleName": "amplify-intelbismovee-intelbis-232141-unauthRole",
+      "StackName": "amplify-intelbismovee-intelbis-232141",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:952134732999:stack/amplify-intelbismovee-intelbis-232141/06ce0e30-2542-11ed-b4f7-02316d3a28fe",
+      "AmplifyAppId": "d397kyr4cmifzi"
+    }
+  }
+}
