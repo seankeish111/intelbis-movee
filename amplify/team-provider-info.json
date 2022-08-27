@@ -11,5 +11,31 @@
       "StackId": "arn:aws:cloudformation:ap-southeast-2:952134732999:stack/amplify-intelbismovee-intelbis-232141/06ce0e30-2542-11ed-b4f7-02316d3a28fe",
       "AmplifyAppId": "d397kyr4cmifzi"
     }
+  },
+  "iblabsapp": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-intelbismovee-iblabsapp-43557-authRole",
+      "UnauthRoleArn": "arn:aws:iam::952134732999:role/amplify-intelbismovee-iblabsapp-43557-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::952134732999:role/amplify-intelbismovee-iblabsapp-43557-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-intelbismovee-iblabsapp-43557-deployment",
+      "UnauthRoleName": "amplify-intelbismovee-iblabsapp-43557-unauthRole",
+      "StackName": "amplify-intelbismovee-iblabsapp-43557",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:952134732999:stack/amplify-intelbismovee-iblabsapp-43557/edaffc70-256d-11ed-a5a5-02bfa3f7ba52",
+      "AmplifyAppId": "d397kyr4cmifzi"
+    },
+    "categories": {
+      "auth": {
+        "intelbismoveee917fc7d": {},
+        "intelbismoveee94bbf05": {},
+        "true": {}
+      },
+      "function": {
+        "intelbismovee73ebb391": {
+          "deploymentBucketName": "amplify-intelbismovee-iblabsapp-43557-deployment",
+          "s3Key": "amplify-builds/intelbismovee73ebb391-314a5151704e5778514c-build.zip"
+        }
+      }
+    }
   }
 }
