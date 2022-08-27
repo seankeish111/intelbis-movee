@@ -1,0 +1,6 @@
+type FormInputs @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  first_name: String
+  second_name: String
+  moving_date: AWSDate
+}
